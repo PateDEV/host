@@ -1,6 +1,6 @@
 {
     "ABCDE-12345-FGHIJ-67890": {
-        "active": true,
+        "active": false,
         "expiry_date": "2024-12-31"
     },
     "ABCDE-NEKRUR8A2-FGHIJ-67890": {
